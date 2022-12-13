@@ -34,5 +34,7 @@ In order to use the above tool, Lunch a new cmd and do the following
 
 This will further show you the help menu in order to use the tool pergfectly
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 
