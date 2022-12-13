@@ -13,7 +13,7 @@
 
 ### INSTALLATION
 
-> Clone the repository
+> - Clone the repository
 >> - git clone https://github.com/cyberxploit/CreateWindowsCmdCommand.git
 > - cd CreateWindowsCmdCommand
 > - cd CommandAutomation
