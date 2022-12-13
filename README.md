@@ -14,15 +14,15 @@
 ### INSTALLATION
 
 > Clone the repository
->> git clone https://github.com/cyberxploit/CreateWindowsCmdCommand.git
-> cd CreateWindowsCmdCommand
-> cd CommandAutomation
-> pip install -r requirements.txt
-> Modify the git_user and git_password in the command directory.
->> cd command
->> nano cred.py (You can use any text editor of your choice).
->> cd ..
-> python run.py
+>> - git clone https://github.com/cyberxploit/CreateWindowsCmdCommand.git
+> - cd CreateWindowsCmdCommand
+> - cd CommandAutomation
+> - pip install -r requirements.txt
+> - Modify the git_user and git_password in the command directory.
+>> - cd command
+>> - nano cred.py (You can use any text editor of your choice).
+>> - cd ..
+> - python run.py
 
 Wait for some time for the program to execute completely.
 
@@ -30,7 +30,7 @@ Wait for some time for the program to execute completely.
 
 In order to use the above tool, Lunch a new cmd and do the following
 
-> create
+> - create
 
 This will further show you the help menu in order to use the tool pergfectly
 
