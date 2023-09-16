@@ -3,8 +3,6 @@
 
 > This program is only available **windows users**.
 
-
-
 ## Disclaimer
 
 > This is to note that i am not an expert in programming at all, so any modification
@@ -15,15 +13,17 @@
 
 > - Clone the repository
 ```bash
->> - git clone https://github.com/cyberxploit/CreateWindowsCmdCommand.git
-> - cd CreateWindowsCmdCommand
-> - cd CommandAutomation
-> - pip install -r requirements.txt
+git clone https://github.com/cyberxploit/CreateWindowsCmdCommand.git
+cd CreateWindowsCmdCommand
+cd CommandAutomation
+pip install -r requirements.txt
+```
 > - Modify the git_user and git_password in the command directory.
->> - cd command
->> - nano cred.py (You can use any text editor of your choice).
->> - cd ..
-> - python run.py
+```bash
+cd command
+nano cred.py <!--(You can use any text editor of your choice-->).
+cd ..
+python run.py
 ```
 Wait for some time for the program to execute completely.
 
