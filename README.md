@@ -14,6 +14,7 @@
 ### INSTALLATION
 
 > - Clone the repository
+```bash
 >> - git clone https://github.com/cyberxploit/CreateWindowsCmdCommand.git
 > - cd CreateWindowsCmdCommand
 > - cd CommandAutomation
@@ -23,7 +24,7 @@
 >> - nano cred.py (You can use any text editor of your choice).
 >> - cd ..
 > - python run.py
-
+```
 Wait for some time for the program to execute completely.
 
 ### USAGE
