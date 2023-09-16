@@ -21,7 +21,7 @@ pip install -r requirements.txt
 > - Modify the git_user and git_password in the command directory.
 ```bash
 cd command
-nano cred.py <!--(You can use any text editor of your choice-->).
+nano cred.py
 cd ..
 python run.py
 ```
